@@ -1,1 +1,1 @@
-#I will use this to git petch and git merge
+#I will use this to use commit -A
